@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Trustimonial/static/css/main.7a2e0099.css",
+    "main.js": "/Trustimonial/static/js/main.6bddf78c.js",
+    "static/media/shivam photo.png": "/Trustimonial/static/media/shivam photo.a3b13cc6951da214b425.png",
+    "static/media/krishna.png": "/Trustimonial/static/media/krishna.a60ce57535cc28d1dbdb.png",
+    "static/media/Vaibhav.png": "/Trustimonial/static/media/Vaibhav.c811df7dee76dbd2bb45.png",
+    "static/media/Aayush.jpeg": "/Trustimonial/static/media/Aayush.f68afe31870572baea8c.jpeg",
+    "static/media/sawan.jpeg": "/Trustimonial/static/media/sawan.05b026220043edcc8690.jpeg",
+    "index.html": "/Trustimonial/index.html",
+    "main.7a2e0099.css.map": "/Trustimonial/static/css/main.7a2e0099.css.map",
+    "main.6bddf78c.js.map": "/Trustimonial/static/js/main.6bddf78c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a2e0099.css",
+    "static/js/main.6bddf78c.js"
+  ]
+}
